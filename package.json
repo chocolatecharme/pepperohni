@@ -1,11 +1,11 @@
 {
-  "name": "pepperohni",
+  "name": "pepperohni-rosehack",
   "version": "1.0.0",
-  "description": "Rate your favorite spicy snacks!",
-  "main": "app.js",
+  "description": "Rate your favorite snacks by spiciness!",
+  "main": "www/js/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js"
+    "start": "node www/js/app.js"
   },
   "repository": {
     "type": "git",
@@ -14,7 +14,7 @@
   "keywords": [
     "food"
   ],
-  "author": "chocolatecharme",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/chocolatecharme/pepperohni/issues"
